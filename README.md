@@ -1,7 +1,7 @@
-# Tarea 2: DCCimpsons:
+# Tarea 2: DCCimpsons
 
 
-¡Holaa! Intentaré hacer el mejor Readme posible para ayudar en la corrección. La verdad podría escribir 100 páginas sobre como fue hacer la tarea jaja, pero intentaré
+¡Hola! Intentaré hacer el mejor Readme posible para ayudar en la corrección. La verdad podría escribir 100 páginas sobre como fue hacer la tarea jaja, pero intentaré
 ser lo más conciso posible y escribir solo lo necesario. 
 
 ## Consideraciones generales :octocat:
